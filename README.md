@@ -1,7 +1,5 @@
 
 
----
-
 # Rock vs Mine Prediction using Convolutional Neural Network (CNN)
 
 ## Description
